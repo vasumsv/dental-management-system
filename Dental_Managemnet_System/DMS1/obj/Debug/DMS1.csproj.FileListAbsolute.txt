@@ -1,0 +1,27 @@
+C:\Users\HP\source\repos\DMS1\DMS1\obj\Debug\DMS1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\DMS1\DMS1\obj\Debug\DMS1.Doctor.resources
+C:\Users\HP\source\repos\DMS1\DMS1\obj\Debug\DMS1.Nurses.resources
+C:\Users\HP\source\repos\DMS1\DMS1\obj\Debug\DMS1.Patient.resources
+C:\Users\HP\source\repos\DMS1\DMS1\obj\Debug\DMS1.Problems.resources
+C:\Users\HP\source\repos\DMS1\DMS1\obj\Debug\DMS1.Properties.Resources.resources
+C:\Users\HP\source\repos\DMS1\DMS1\obj\Debug\DMS1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\DMS1\DMS1\bin\Debug\DMS1.exe.config
+C:\Users\HP\source\repos\DMS1\DMS1\bin\Debug\DMS1.exe
+C:\Users\HP\source\repos\DMS1\DMS1\bin\Debug\DMS1.pdb
+C:\Users\HP\source\repos\DMS1\DMS1\obj\Debug\DMS1.exe
+C:\Users\HP\source\repos\DMS1\DMS1\obj\Debug\DMS1.pdb
+C:\Users\HP\source\repos\DMS1\DMS1\obj\Debug\DMS1.Home.resources
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\bin\Debug\DMS1.exe.config
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\bin\Debug\DMS1.exe
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\bin\Debug\DMS1.pdb
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.csprojAssemblyReference.cache
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.Doctor.resources
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.Home.resources
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.Nurses.resources
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.Patient.resources
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.Problems.resources
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.Properties.Resources.resources
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.csproj.GenerateResource.cache
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.csproj.CoreCompileInputs.cache
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.exe
+G:\visual projects\Bcom project\Dental_Managemnet_System\DMS1\obj\Debug\DMS1.pdb
